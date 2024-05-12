@@ -1,0 +1,9 @@
+[package]
+name = "fksraytracer"
+version = "0.1.0"
+authors = ["FelixKS"]
+edition = "2021"
+
+[dependencies]
+image = "0.25.1"
+rand = "0.8.5"
